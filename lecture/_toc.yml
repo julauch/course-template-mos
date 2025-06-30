@@ -8,5 +8,6 @@ chapters:
   sections:
   - file: content/static_content
   - file: content/interactive_notebook
+- file: general_information/hausarbeiten
 - file: general_information/CoC
 - file: general_information/dei
