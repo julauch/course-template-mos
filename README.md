@@ -1,4 +1,6 @@
-![logo](lecture/static/logo.png)
+## Syntax im L2-Erwerb
+
+TBA
 
 
 ## "What's in this repository?"
